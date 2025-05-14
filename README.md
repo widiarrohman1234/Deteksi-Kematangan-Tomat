@@ -2,6 +2,9 @@
 
 Proyek ini bertujuan untuk mengklasifikasikan tingkat kematangan tomat menggunakan metode analisis warna berdasarkan histogram HSV. Gambar tomat dikategorikan ke dalam tiga kelas: **Hijau**, **Campur**, dan **Merah**.
 
+## 📊 Download Dataset
+link: https://www.kaggle.com/datasets/widiarrohman/dataset-kematangan-tomat
+
 ## 📦 Struktur Dataset
 
 Letakkan gambar tomat dalam folder `dataset_tomat/` dengan nama:
